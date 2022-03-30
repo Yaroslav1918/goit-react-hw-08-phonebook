@@ -1,0 +1,16 @@
+.button {
+  width: 30px !important;
+  font-size: 11px !important;
+  padding: 5px !important;
+  margin-left: 10px !important;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  font-weight: 500;
+  margin-left: 5px;
+}
